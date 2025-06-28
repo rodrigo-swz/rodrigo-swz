@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Estudando programação desde 2022;<br>📚 Estudando pós em full stack com cloud computing pelo GRAN e administrador de banco de dados pelo SENAI;<br>🎯 Goals: Carreira na área de desenvolvimento ou como DBA;<br>🎲 Fun facts: Nerd, Gamer, coffe lover, curioso e papai.<br>📧 E-mail: rodrigolopes.92.com.br ; <br>📞 Telefone: 61 991816302 (WhatsApp).<br>🔗 LinkedIn: https://www.linkedin.com/in/rodrigo-f-lopes/</p>
+<p align="left">✨ Estudando programação desde 2022;<br>📚 Pós graduado em full stack com cloud computing pelo GRAN e administrador de banco de dados pelo SENAI;<br>🎯 Goals: Carreira na área de desenvolvimento ou como DBA;<br>🎲 Fun facts: Nerd, Gamer, coffe lover, curioso e papai.<br>📧 E-mail: rodrigolopes.92.com.br ; <br>📞 Telefone: 61 991816302 (WhatsApp).<br>🔗 LinkedIn: https://www.linkedin.com/in/rodrigo-f-lopes/</p>
 
 ###
 
